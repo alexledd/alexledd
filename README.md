@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm a computer science enthusiast with a passion for photography.
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
 I've been fascinated by computers since childhood, and my curiosity has only grown over the years. I love exploring the world of technology and experimenting with new ideas. When I'm not coding, you can often find me with a camera in hand, capturing beautiful moments through the lens.
 
