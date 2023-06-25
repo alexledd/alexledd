@@ -1,6 +1,6 @@
 
 ![MeJoelHorse4ViewerNode](https://github.com/alexledd/alexledd/assets/78063260/ec991a85-63c8-4099-bd8d-7218039fb76b)
-# I'm Alex Miller! 
+# Hi, I'm Alex Miller! 🙋‍♂️
 
 Welcome to my GitHub profile! I'm a computer science enthusiast with a passion for photography.
 
